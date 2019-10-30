@@ -22,7 +22,7 @@ public class Test2 {
 			System.out.println(uu.getId());
 		}
 		
-		System.out.println("测试代码11111");
+		System.out.println("测试代码1111");
 	}
 
 }

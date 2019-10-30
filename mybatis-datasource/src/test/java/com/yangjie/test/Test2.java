@@ -22,7 +22,6 @@ public class Test2 {
 			System.out.println(uu.getId());
 		}
 		
-		System.out.println("测试代码");
 	}
 
 }
